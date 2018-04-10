@@ -1,1 +1,1 @@
-THE code for the research of CARLA
+The code for the research of CARLA
